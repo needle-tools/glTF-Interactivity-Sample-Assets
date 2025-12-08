@@ -1,3 +1,13 @@
+> [!NOTE]
+> ## **This repository has moved**. The glTF Interactivity Sample Assets can be found at https://github.com/KhronosGroup/glTF-Test-Assets-Interactivity.
+> Please open issues or create new assets there. Thanks!
+
+
+<br>
+<br>
+<br>
+<br>
+
 <p align="center">
 <img src="Models/glTF_RGB_June16.svg" height="100">
 </p>
